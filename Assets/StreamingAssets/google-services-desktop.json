@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566692821986",
+    "firebase_url": "https://blockchainsimulator-default-rtdb.firebaseio.com",
+    "project_id": "blockchainsimulator",
+    "storage_bucket": "blockchainsimulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566692821986:android:c35c25e74c258a609417bb",
+        "android_client_info": {
+          "package_name": "com.blockchain_simulator.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566692821986-mdhcfdp49mh60qeq9aglvpej21trooo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFnC8opw4p6JL59zBKsuJ-Z5w7TOlZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566692821986-mdhcfdp49mh60qeq9aglvpej21trooo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
